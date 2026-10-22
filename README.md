@@ -1,2 +1,2 @@
 # phong-profile
-Nguyễn phúc trung phong
+Nguyễn Phúc Trung Phong
